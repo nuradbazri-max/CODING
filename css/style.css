@@ -1,0 +1,37 @@
+
+
+
+body{background-color:rgb(125, 230, 235)}
+
+#Logo{float:left; margin-bottom:10px}
+#icon{float:right;}
+#index{clear:both;}
+
+#Kanan{font-family:Arial; float:left; width:620px}
+#Kanan h1{color:brown; border-bottom:solid black 0.8px;} 
+#Kanan img {border:solid black 0.7px;padding:10px;}
+#Kanan a:hover{color:yellow}
+#Kanan a{color:black; text-decoration-line:none;}
+#Kanan a:visited{color:black;}
+
+#RightContent {font-family:Arial; float:right; width:230px;}
+#RightContent h3{color:brown;}
+#RightContent h3{color:brown;}
+#RightContent h2{color:brown;}
+
+#hashtag{clear:both;}
+
+#kotak{width:900px; background-color:white; margin:0px auto;}
+#kotak2{width:1000px; background-color:white; margin:0px auto;}
+#index {border-top:solid black 2px; border-bottom:solid black 2px; padding:10px;}
+
+#index a{margin:10px;}
+
+#tajuk {border-bottom:solid black 0.8px;color:brown; font-family:Arial;}
+#hashtag{border-top:solid black 0.8px; padding:10px 330px; margin:10px;}
+
+#kotaksatu {float:left; width:250px; background-color:gray;margin-right:30px;margin-left:15px;border-top:solid rgb(92, 23, 23) 20px;}
+#kotakdua {float:left; width:250px; background-color:gray;margin-right:30px;margin-left:15px;border-top:solid rgb(87, 38, 2) 20px;}
+#kotaktiga {float:left; width:250px; background-color:gray;margin-right:30px;margin-left:15px;border-top:solid rgb(2, 53, 2) 20px;margin-bottom: 20px;}
+
+
